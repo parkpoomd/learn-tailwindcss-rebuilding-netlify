@@ -1,3 +1,3 @@
 <template>
-  <div>Tailwindcss rebuilding netlify</div>
+  <div class="antialiased">Tailwindcss rebuilding netlify</div>
 </template>
